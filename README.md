@@ -1,1 +1,2 @@
-# sewage-detection-system-based-on-ZigBee-technology
+# 利用ZigBee技术开发污水检测系统，实现远程检测、预警通知
+# 硬件 pH传感器、CC2530开发板、通信模块ESP8266；软件 OneNet云平台、微信小程序
